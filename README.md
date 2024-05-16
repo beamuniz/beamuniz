@@ -5,7 +5,7 @@
 💡 &nbsp; I enjoy exploring new technologies and providing support to resolve errors.\
 🎓 &nbsp;I'm currently studying Systems Analysis and Development at the Federal Institute of São Paulo.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.\
-🎮 &nbsp;n my free time, I enjoy playing video games.
+🎮 &nbsp;In my free time, I enjoy playing video games.
 
 <img alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" width="300" height="300"/>
 
