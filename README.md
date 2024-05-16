@@ -1,8 +1,8 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Beatriz Muniz -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I enjoy exploring new technologies and providing support to resolve errors.\
 🎓 &nbsp;I'm currently studying Systems Analysis and Development at the Federal Institute of São Paulo.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Systems Design.\
 🎮 &nbsp;n my free time, I enjoy playing video games.
@@ -26,6 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/beamuniz">
+    <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=beamuniz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beamuniz&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
