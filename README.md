@@ -29,6 +29,4 @@
 <a href="https://linkedin.com/in/beamunizz"><img src="https://img.shields.io/badge/-beamunizz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:biamunizdebarros@gmail.com"><img src="https://img.shields.io/badge/-biamunizdebarros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/its_muniz"><img src="https://img.shields.io/badge/-@its_muniz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/bia.munizdebarros"><img src="https://img.shields.io/badge/-Beatriz Muniz De Barros-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
 </p>
