@@ -6,9 +6,6 @@
 🎓 &nbsp;I'm currently studying Systems Analysis and Development at the Federal Institute of São Paulo.\
 🎮 &nbsp;In my spare time, I enjoy gaming and exploring new technologies.
 
-<img alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" width="300" height="300"/>
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![.NET Badge](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
