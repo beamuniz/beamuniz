@@ -2,9 +2,9 @@
 
 ### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I enjoy exploring new technologies and providing support to resolve errors.\
+💡 &nbsp;Developer with experience in the .NET ecosystem. Focused on building efficient, scalable solutions and troubleshooting complex issues.\
 🎓 &nbsp;I'm currently studying Systems Analysis and Development at the Federal Institute of São Paulo.\
-🎮 &nbsp;In my free time, I enjoy playing video games.
+🎮 &nbsp;In my spare time, I enjoy gaming and exploring new technologies.
 
 <img alt="Coding Cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" width="300" height="300"/>
 
@@ -21,13 +21,6 @@
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/beamuniz">
-    <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=beamuniz&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -37,6 +30,5 @@
 <a href="mailto:biamunizdebarros@gmail.com"><img src="https://img.shields.io/badge/-biamunizdebarros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/its_muniz"><img src="https://img.shields.io/badge/-@its_muniz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/bia.munizdebarros"><img src="https://img.shields.io/badge/-Beatriz Muniz De Barros-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/21854122/beatriz-muniz"><img src="https://img.shields.io/badge/-beatriz_muniz-FE7A16?style=flat&logo=Stack Overflow&logoColor=white"/></a>
 
 </p>
