@@ -8,22 +8,23 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![.NET Badge](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
-![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)&nbsp;
-![C# Badge](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)&nbsp;
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)&nbsp;<br>
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)&nbsp;
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![aspnet](https://shields.io/badge/-Asp_Net_Core-blue?style=for-the-badge)&nbsp;
+![entityframework](https://img.shields.io/badge/Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)&nbsp;
+![sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge)&nbsp;
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
+![selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![html5](https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)&nbsp;
+![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)&nbsp;
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 
+### 🤝🏻 &nbsp;Social
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/beamunizz"><img src="https://img.shields.io/badge/-beamunizz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:biamunizdebarros@gmail.com"><img src="https://img.shields.io/badge/-biamunizdebarros@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/its_muniz"><img src="https://img.shields.io/badge/-@its_muniz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizmunizz)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_muniz/)
+[![facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bia.munizdebarros/)
