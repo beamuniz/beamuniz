@@ -8,19 +8,19 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![aspnet](https://shields.io/badge/-Asp_Net_Core-blue?style=for-the-badge)&nbsp;
-![entityframework](https://img.shields.io/badge/Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)&nbsp;
-![sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge)&nbsp;
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
-![selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
-![html5](https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)&nbsp;
-![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)&nbsp;
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white)
+![aspnet](https://shields.io/badge/-Asp_Net_Core-blue?style=for-the-badge)
+![entityframework](https://img.shields.io/badge/Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)
+![sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
+![html5](https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
+![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ### 🤝🏻 &nbsp;Social
